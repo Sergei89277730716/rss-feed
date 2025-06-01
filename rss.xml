@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<rss version="2.0">
+  <channel>
+    <title>Контент от Make</title>
+    <link>https://sergeyd.github.io/rss-feed/</link>
+    <description>Автоматический RSS для Дзена</description>
+
+    <item>
+      <title><![CDATA[Тестовая статья]]></title>
+      <link>https://example.com/post1</link>
+      <description><![CDATA[Описание статьи]]></description>
+      <pubDate>Sun, 01 Jun 2025 10:00:00 GMT</pubDate>
+      <enclosure url="https://example.com/image.jpg" type="image/jpeg"/>
+    </item>
+
+  </channel>
+</rss>
